@@ -3,3 +3,5 @@ Insert Some Text in Test file for first Commit
 Insert Another Text in Test file for Second Commit
 
 Insert Third Text in Test file for Next Commit
+
+Intert Text for forth commit in Test Branch
